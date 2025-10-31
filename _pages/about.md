@@ -31,4 +31,4 @@ I am pursuing  a PhD in Cryptography at [LIMOS](https://limos.fr/) and [Be-Ys](h
 
 I completed my undergraduate studies at [Jerash University](https://www.jpu.edu.jo/jpu/) (2018) and my MSc at [ISIMA](https://www.isima.fr/) (2024).
 
-Industry experience: I worked at Be‑Ys (2023–2024) on the design and development of a data‑processing platform. Previously, I was a backend developer and software solution architect at ESKADENIA Software (2018–2022), building telecom software including CRM, billing, and mediation systems.
+Industry experience: I worked at Be‑Ys (2023–2024) on the design and development of a data‑processing platform using Talend and Java. Previously, I was a software solution architect and backend developer (MySQL and Oracle) at ESKADENIA Software (2018–2022). I worked on building telecom software including CRM, billing, and mediation systems.

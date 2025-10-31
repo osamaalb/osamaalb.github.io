@@ -17,3 +17,4 @@ Exercise and practical sessions for INP Prépa 2 students.
 - Dynamic Programming
 - Binary Search
 - Problem-Solving
+- Python
