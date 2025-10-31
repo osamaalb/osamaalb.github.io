@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Cryptography at LIMOS and BeYs
+subtitle: PhD Student at LIMOS and Be-Ys
 
 profile:
   align: right
@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am doing a PhD in Cryptography at [LIMOS](https://limos.fr/) and [BeYs](https://www.be-ys.com/) under the supervision of Pascal Lafourcade, Olivier Blazy, and Olivier Raynaud. I did my undergraduate studies at [Jerash University](https://www.jpu.edu.jo/jpu/) and my master in [ISIMA, Clermont-Auvergne University](https://www.isima.fr/).
+I am pursuing  a PhD in Cryptography at [LIMOS](https://limos.fr/) and [Be-Ys](https://www.be-ys.com/) under the supervision of Pascal Lafourcade, Olivier Blazy, and Olivier Raynaud. My research focuses on applied cryptography, digital signatures, and lattice-based primitives.
+
+I completed my undergraduate studies at [Jerash University](https://www.jpu.edu.jo/jpu/) (2018) and my MSc at [ISIMA](https://www.isima.fr/) (2024).
+
+Industry experience: I worked at Be‑Ys (2023–2024) on the design and development of a data‑processing platform. Previously, I was a backend developer and software solution architect at ESKADENIA Software (2018–2022), building telecom software including CRM, billing, and mediation systems.
