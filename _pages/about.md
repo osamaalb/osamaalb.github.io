@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am doing a PhD in Cryptography in [LIMOS](https://limos.fr/) and the company [BeYs](https://www.be-ys.com/) under the supervision of Pascal Lafourcade, Olivier Blazy, and Olivier Raynaud. I did my undergraduate studies at [Jerash University](https://www.jpu.edu.jo/jpu/) and my master in [ISIMA, Clermont-Auvergne University](https://www.isima.fr/).
+I am doing a PhD in Cryptography at [LIMOS](https://limos.fr/) and [BeYs](https://www.be-ys.com/) under the supervision of Pascal Lafourcade, Olivier Blazy, and Olivier Raynaud. I did my undergraduate studies at [Jerash University](https://www.jpu.edu.jo/jpu/) and my master in [ISIMA, Clermont-Auvergne University](https://www.isima.fr/).
