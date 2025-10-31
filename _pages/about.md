@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Office F203, LIMOS</p>
     <p>1 rue de la Chebarde</p>
-    <p>AUBIERE, 63178</p>
+    <p>63178 Aubière, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
