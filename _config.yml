@@ -196,7 +196,8 @@ exclude:
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/cv.md
-  - _pages/people.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
   - _pages/books.md
   - _news/announcement_*.md
   - _posts/

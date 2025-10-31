@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at LIMOS
+subtitle: PhD Student in Cryptography at LIMOS and BeYs
 
 profile:
   align: right
